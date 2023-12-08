@@ -1,0 +1,37 @@
+.ant-steps-item, .ant-steps-item-finish, .ant-steps-item-process, .ant-steps-item-active {
+  flex: 1 !important;
+}
+
+:where(.css-dev-only-do-not-override-1adbn6x).ant-steps .ant-steps-item-process .ant-steps-item-icon > .ant-steps-icon .ant-steps-icon-dot {
+  background: #318E5A !important;
+}
+
+.ant-steps-item-title {
+  font-size: 15px !important;
+}
+
+.ant-input:focus {
+  outline-color: #318E5A !important;
+  border-color: #318E5A !important;
+}
+
+.ant-input-affix-wrapper-focused {
+  outline-color: #318E5A !important;
+  border-color: #318E5A !important;
+}
+
+.ant-picker-focused {
+  border-color: #318E5A !important;
+}
+
+.ant-picker-focused .ant-picker-input > input {
+  outline: #318E5A;
+}
+
+:where(.css-dev-only-do-not-override-1adbn6x).ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #318E5A;
+}
+
+.ant-tabs-ink-bar {
+  border-bottom: 2px solid #318E5A;
+}

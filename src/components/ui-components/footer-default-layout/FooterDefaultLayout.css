@@ -1,0 +1,8 @@
+.FooterDefaultLayout__active.active {
+  color: #318E5A !important;
+}
+
+.FooterDefaultLayout__mainActive.active {
+  color: white !important;
+  background-color: #318E5A !important;
+}

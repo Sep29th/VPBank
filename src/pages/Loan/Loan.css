@@ -1,0 +1,21 @@
+#money:focus {
+  outline-color: #318E5A;
+  border-color: #318E5A;
+}
+
+.ant-select-selector:hover, .ant-select-selector:focus-within {
+  border: 1px solid #318E5A !important;
+}
+
+.ant-pagination-item-active {
+  border-color: #318E5A !important;
+}
+
+.ant-pagination-item-active a {
+  color: #318E5A !important;
+}
+
+th.ant-table-cell {
+  color: white !important;
+  background-color: #318E5A !important;
+}
